@@ -1,10 +1,10 @@
 ### Hi there, I'm Rafia Rahman chowdhury, an aspiring Android developer. :smiley:
 
 
-[Check Out My Resume]( "#")
+[Check Out My Resume](https://drive.google.com/file/d/1mpqEjvoP8_VOcZsmhcojCM181gwuxBkF/view?usp=sharing)
 
 
-<!-- [Check Me on Website](https://professional-portfolio-react.web.app/) -->
+ 
 
 
 ## I'm a student, developer, and teacher!
@@ -141,3 +141,4 @@ Libraries/Languages/Platform/API/SDK:  Java, Retrofit, OpenWeatherMap
 [instagram]: http://www.instagram.com/rafia_chy
 [linkedin]: https://www.linkedin.com/in/rafia-chowdhury-056346a9/ 
 [twitter]: https://twitter.com/RafiaRahmanCho1
+
