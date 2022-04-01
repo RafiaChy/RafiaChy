@@ -7,12 +7,7 @@
  
 
 
-## I'm a student, developer, and teacher!
-
-- 🌱 I’m currently learning Kotlin
-- :smiley: I’m looking for an internship to upgrade my skills.
-- :dart: 2021 Goals: Gain skills for React Native, Flutter, MongoDB, Dart and Unity Game Engine
-- :laughing: Fun fact: I love to watch Animes and play video games.
+## Just another software engineer.
 
 ### Connect with me:
 
