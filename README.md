@@ -1,13 +1,8 @@
-### Hi there, I'm Rafia Rahman chowdhury, an aspiring Android developer. :smiley:
+### Hi there, I'm Rafia Rahman chowdhury, just another software developer. :smiley:
 
 
 [Check Out My Resume](https://drive.google.com/file/d/1Hx47PGV34Q9iHfEYZje7WehO9reYpD01/view?usp=sharing)
 
-
- 
-
-
-## Just another software developer.
 
 ### Connect with me:
 
