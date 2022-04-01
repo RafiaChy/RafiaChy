@@ -7,7 +7,7 @@
  
 
 
-## Just another software engineer.
+## Just another software developer.
 
 ### Connect with me:
 
